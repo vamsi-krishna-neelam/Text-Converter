@@ -128,6 +128,6 @@ Refer: [Create React App Deployment Guide](https://facebook.github.io/create-rea
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Vamsi Krishna Neelam** – [@vamsi-krishna-neelam](https://github.com/vamsi-krishna-neelam)
