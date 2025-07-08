@@ -121,11 +121,6 @@ Refer: [Create React App Deployment Guide](https://facebook.github.io/create-rea
 
 ---
 
-## 📘 Learn more
-
-- [React.js documentation](https://reactjs.org/)
-- [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started)
-
 ---
 
 ##  Author
